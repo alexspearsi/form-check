@@ -1,7 +1,7 @@
 body {
     background-color: #0f0f13;
     overflow: hidden;
-}
+} 
 
 .main-flex {
     display: flex;
@@ -79,7 +79,7 @@ label {
     color: #AFB2BF;
 }
 
-button {
+/* button {
     background-color: #6c38cc;
     color: #fafafa;
     border: none;
@@ -97,4 +97,4 @@ button {
     position: absolute;
     top: 17px;
     left: 16px;
-}
+} */
