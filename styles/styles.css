@@ -69,32 +69,3 @@ select::placeholder {
     font-size: 16px;
 }
 
-label {
-    position: absolute;
-    top: 12px;
-    left: 48px;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 120%;
-    color: #AFB2BF;
-}
-
-button {
-    background-color: #6c38cc;
-    color: #fafafa;
-    border: none;
-    border-radius: 10px;
-    padding: 12px 24px;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 120%;
-    text-align: center;
-    width: 307px;
-    cursor: pointer;
-}
-
-/* .field img {
-    position: absolute;
-    top: 17px;
-    left: 16px;
-} */
