@@ -93,3 +93,8 @@ button {
     cursor: pointer; 
 }
 
+.field img {
+    position: absolute;
+    top: 17px;
+    left: 16px;
+}
