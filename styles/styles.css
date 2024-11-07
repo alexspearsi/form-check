@@ -54,7 +54,7 @@ textarea {
     width: 234px;
     resize: none;
 }
- 
+
 
 select {
     display: inline-block;
@@ -67,7 +67,7 @@ textarea::placeholder,
 select::placeholder {
     color: #4a4863;
     font-size: 16px;
-}  
+}
 
 label {
     position: absolute;
